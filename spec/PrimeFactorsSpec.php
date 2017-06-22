@@ -34,6 +34,6 @@ class PrimeFactorsSpec extends ObjectBehavior
     }
 
     function it_returns_2_3_for_6(){
-        $this->generate(6)->shouldReturn([6]);
+        $this->generate(6)->shouldReturn([2, 3]);
     }
 }
