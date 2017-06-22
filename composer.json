@@ -1,0 +1,11 @@
+{
+  "require": {
+    "phpunit/phpunit": "6.2.2",
+    "phpspec/phpspec": "3.4.0",
+    "phpspec/nyan-formatters": "2.*"
+  },
+  "config": {
+    "bin-dir": "bin"
+  },
+  "autoload": {"psr-0": {"": "src"}}
+}
