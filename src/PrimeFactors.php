@@ -5,11 +5,11 @@ class PrimeFactors
     public function generate($number)
     {
         $primes = [];
-        while(!($number % 2)){
-            $number /= 2;
-            $primes[] = 2;
+        for($candidate = 2;$number >1; $candidate++) {
+            for(; !($number % $candidate); $number /= $candidate) {
+                $primes[] = $candidate;
+            }
         }
-        if($number > 1) $primes[] = $number;
         return $primes;
     }
 }
