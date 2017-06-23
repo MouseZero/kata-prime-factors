@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4df9cc1f-dc53-422e-81c3-f9932f45267f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/PrimeFactorsSpec.php" afterPath="$PROJECT_DIR$/spec/PrimeFactorsSpec.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PrimeFactors.php" afterPath="$PROJECT_DIR$/src/PrimeFactors.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -245,7 +243,7 @@
       <workItem from="1498091002646" duration="1256000" />
       <workItem from="1498097995012" duration="4430000" />
       <workItem from="1498152000266" duration="1020000" />
-      <workItem from="1498172555508" duration="3330000" />
+      <workItem from="1498172555508" duration="3351000" />
     </task>
     <task id="LOCAL-00001" summary="fixed test assert">
       <created>1498174550531</created>
@@ -254,11 +252,18 @@
       <option name="project" value="LOCAL" />
       <updated>1498174550531</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="complete">
+      <created>1498176737698</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1498176737698</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10036000" />
+    <option name="totallyTimeSpent" value="10057000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="955" y="0" width="965" height="880" extended-state="0" />
@@ -291,7 +296,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fixed test assert" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed test assert" />
+    <MESSAGE value="complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
